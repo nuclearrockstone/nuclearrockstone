@@ -1,6 +1,6 @@
 ## Hi I'm NuclearRockStone 👋
 ## MyTechStack
-[![MyTechStack](https://skillicons.dev/icons?i=python,vscode,html,css,notion,markdown)](https://skillicons.dev)
+[![MyTechStack](https://skillicons.dev/icons?i=python,vscode,html,css,notion,markdown&theme=light)](https://github.com/nuclearrockstone)
 <!--
 **nuclearrockstone/nuclearrockstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
