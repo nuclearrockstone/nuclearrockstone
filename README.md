@@ -2,7 +2,7 @@
 ## MyTechStack
 [![MyTechStack](https://skillicons.dev/icons?i=python,vscode,html,css,notion,markdown&theme=light)](https://github.com/nuclearrockstone)
 
-![Badge](https://my-first-worker.nuclearrockstone.workers.dev/?model=deepseek)
+![BADGE](https://coding-with-ai-badge.nuclearrockstone.workers.dev/?model=deepseek&text=CHINA%20NO1)
 <!--
 **nuclearrockstone/nuclearrockstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
