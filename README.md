@@ -1,6 +1,8 @@
 ## Hi I'm NuclearRockStone 👋
 ## MyTechStack
 [![MyTechStack](https://skillicons.dev/icons?i=python,vscode,html,css,notion,markdown&theme=light)](https://github.com/nuclearrockstone)
+
+![Badge](https://my-first-worker.nuclearrockstone.workers.dev/?model=deepseek)
 <!--
 **nuclearrockstone/nuclearrockstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
